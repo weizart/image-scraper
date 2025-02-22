@@ -10,8 +10,8 @@ from utils.general import download_uri
 from tqdm import tqdm
 import sys
 
-key = "2b58cb9e9948ddca307c5eeac7008aba"  
-secret = "002f592155836c09"
+key = ""  
+secret = ""
 
 
 def get_urls(search="honeybees on flowers", n=10, download=False, save_dir=None):
